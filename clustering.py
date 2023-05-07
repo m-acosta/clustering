@@ -1,9 +1,12 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Michael Acosta
 # FILENAME: clustering.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: This program runs k-means with k values from 2 to 20 to 
+#                   find the best value. The silhouette coefficients are 
+#                   plotted and the Homogeneity Score is shown for the 
+#                   best k value.
 # FOR: CS 4210- Assignment #5
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: ~1 hour
 #-----------------------------------------------------------*/
 
 #importing some Python libraries
